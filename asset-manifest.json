@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.e1873421.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.596d14f8.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.596d14f8.chunk.js.map",
+    "main.js": "/tgm3-control-panel/static/js/main.4c923a83.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.4c923a83.chunk.js.map",
     "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.5fad51a4.js",
     "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.5fad51a4.js.map",
-    "static/js/2.7e3dcbaf.chunk.js": "/tgm3-control-panel/static/js/2.7e3dcbaf.chunk.js",
-    "static/js/2.7e3dcbaf.chunk.js.map": "/tgm3-control-panel/static/js/2.7e3dcbaf.chunk.js.map",
+    "static/js/2.c234b1d2.chunk.js": "/tgm3-control-panel/static/js/2.c234b1d2.chunk.js",
+    "static/js/2.c234b1d2.chunk.js.map": "/tgm3-control-panel/static/js/2.c234b1d2.chunk.js.map",
     "static/js/3.57ac274e.chunk.js": "/tgm3-control-panel/static/js/3.57ac274e.chunk.js",
     "static/js/3.57ac274e.chunk.js.map": "/tgm3-control-panel/static/js/3.57ac274e.chunk.js.map",
     "index.html": "/tgm3-control-panel/index.html",
     "static/css/main.e1873421.chunk.css.map": "/tgm3-control-panel/static/css/main.e1873421.chunk.css.map",
-    "static/js/2.7e3dcbaf.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.7e3dcbaf.chunk.js.LICENSE.txt",
+    "static/js/2.c234b1d2.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.c234b1d2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tgm3-control-panel/static/media/b1.36add1c0.png",
     "static/media/cheer.b281ae96.gif": "/tgm3-control-panel/static/media/cheer.b281ae96.gif",
+    "static/media/commercial.4f5f32b4.jpg": "/tgm3-control-panel/static/media/commercial.4f5f32b4.jpg",
     "static/media/donate.afa002a7.gif": "/tgm3-control-panel/static/media/donate.afa002a7.gif",
     "static/media/draw.afb133c3.jpg": "/tgm3-control-panel/static/media/draw.afb133c3.jpg",
     "static/media/lpcountdown.b961ef0c.jpg": "/tgm3-control-panel/static/media/lpcountdown.b961ef0c.jpg",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5fad51a4.js",
-    "static/js/2.7e3dcbaf.chunk.js",
+    "static/js/2.c234b1d2.chunk.js",
     "static/css/main.e1873421.chunk.css",
-    "static/js/main.596d14f8.chunk.js"
+    "static/js/main.4c923a83.chunk.js"
   ]
 }
