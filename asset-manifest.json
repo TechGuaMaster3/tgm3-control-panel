@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.e1873421.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.4c923a83.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.4c923a83.chunk.js.map",
-    "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.5fad51a4.js",
-    "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.5fad51a4.js.map",
-    "static/js/2.c234b1d2.chunk.js": "/tgm3-control-panel/static/js/2.c234b1d2.chunk.js",
-    "static/js/2.c234b1d2.chunk.js.map": "/tgm3-control-panel/static/js/2.c234b1d2.chunk.js.map",
-    "static/js/3.57ac274e.chunk.js": "/tgm3-control-panel/static/js/3.57ac274e.chunk.js",
-    "static/js/3.57ac274e.chunk.js.map": "/tgm3-control-panel/static/js/3.57ac274e.chunk.js.map",
+    "main.js": "/tgm3-control-panel/static/js/main.fba125e2.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.fba125e2.chunk.js.map",
+    "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.ce2fa265.js",
+    "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.ce2fa265.js.map",
+    "static/js/2.75ee700c.chunk.js": "/tgm3-control-panel/static/js/2.75ee700c.chunk.js",
+    "static/js/2.75ee700c.chunk.js.map": "/tgm3-control-panel/static/js/2.75ee700c.chunk.js.map",
+    "static/js/3.bfd6c2dd.chunk.js": "/tgm3-control-panel/static/js/3.bfd6c2dd.chunk.js",
+    "static/js/3.bfd6c2dd.chunk.js.map": "/tgm3-control-panel/static/js/3.bfd6c2dd.chunk.js.map",
     "index.html": "/tgm3-control-panel/index.html",
     "static/css/main.e1873421.chunk.css.map": "/tgm3-control-panel/static/css/main.e1873421.chunk.css.map",
-    "static/js/2.c234b1d2.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.c234b1d2.chunk.js.LICENSE.txt",
+    "static/js/2.75ee700c.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.75ee700c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tgm3-control-panel/static/media/b1.36add1c0.png",
     "static/media/cheer.b281ae96.gif": "/tgm3-control-panel/static/media/cheer.b281ae96.gif",
     "static/media/commercial.4f5f32b4.jpg": "/tgm3-control-panel/static/media/commercial.4f5f32b4.jpg",
@@ -23,9 +23,9 @@
     "static/media/summon.ee5db7b7.jpg": "/tgm3-control-panel/static/media/summon.ee5db7b7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fad51a4.js",
-    "static/js/2.c234b1d2.chunk.js",
+    "static/js/runtime-main.ce2fa265.js",
+    "static/js/2.75ee700c.chunk.js",
     "static/css/main.e1873421.chunk.css",
-    "static/js/main.4c923a83.chunk.js"
+    "static/js/main.fba125e2.chunk.js"
   ]
 }
