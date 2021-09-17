@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.05454649.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.05454649.chunk.js.map",
+    "main.js": "/tgm3-control-panel/static/js/main.98d96241.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.98d96241.chunk.js.map",
     "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.7748244c.js",
     "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.7748244c.js.map",
     "static/js/2.62c5f9e6.chunk.js": "/tgm3-control-panel/static/js/2.62c5f9e6.chunk.js",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.7748244c.js",
     "static/js/2.62c5f9e6.chunk.js",
     "static/css/main.8c8fee88.chunk.css",
-    "static/js/main.05454649.chunk.js"
+    "static/js/main.98d96241.chunk.js"
   ]
 }
