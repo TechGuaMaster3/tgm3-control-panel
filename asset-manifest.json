@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.98d96241.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.98d96241.chunk.js.map",
+    "main.js": "/tgm3-control-panel/static/js/main.98f562ea.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.98f562ea.chunk.js.map",
     "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.7748244c.js",
     "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.7748244c.js.map",
     "static/js/2.62c5f9e6.chunk.js": "/tgm3-control-panel/static/js/2.62c5f9e6.chunk.js",
@@ -12,9 +12,9 @@
     "index.html": "/tgm3-control-panel/index.html",
     "static/css/main.8c8fee88.chunk.css.map": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css.map",
     "static/js/2.62c5f9e6.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.62c5f9e6.chunk.js.LICENSE.txt",
-    "static/media/amaizo.ff690d1c.jpg": "/tgm3-control-panel/static/media/amaizo.ff690d1c.jpg",
+    "static/media/amaizo.b59f56a3.jpg": "/tgm3-control-panel/static/media/amaizo.b59f56a3.jpg",
     "static/media/App.css": "/tgm3-control-panel/static/media/b1.36add1c0.png",
-    "static/media/bakusatsu.af64dc67.png": "/tgm3-control-panel/static/media/bakusatsu.af64dc67.png",
+    "static/media/bakusatsu.eb6fbfe9.png": "/tgm3-control-panel/static/media/bakusatsu.eb6fbfe9.png",
     "static/media/basilisktime.9e338562.png": "/tgm3-control-panel/static/media/basilisktime.9e338562.png",
     "static/media/cheer.b281ae96.gif": "/tgm3-control-panel/static/media/cheer.b281ae96.gif",
     "static/media/commercial.4f5f32b4.jpg": "/tgm3-control-panel/static/media/commercial.4f5f32b4.jpg",
@@ -26,6 +26,7 @@
     "static/media/holditc.eb661fb5.png": "/tgm3-control-panel/static/media/holditc.eb661fb5.png",
     "static/media/holdite.b0ba0ece.png": "/tgm3-control-panel/static/media/holdite.b0ba0ece.png",
     "static/media/holditj.758377f5.png": "/tgm3-control-panel/static/media/holditj.758377f5.png",
+    "static/media/jikaiyokoku.856dc2d1.jpg": "/tgm3-control-panel/static/media/jikaiyokoku.856dc2d1.jpg",
     "static/media/lpcountdown.b961ef0c.jpg": "/tgm3-control-panel/static/media/lpcountdown.b961ef0c.jpg",
     "static/media/lpcountzero.bc66b406.jpg": "/tgm3-control-panel/static/media/lpcountzero.bc66b406.jpg",
     "static/media/nanikore.f9e4f11e.jpg": "/tgm3-control-panel/static/media/nanikore.f9e4f11e.jpg",
@@ -37,12 +38,13 @@
     "static/media/takethatc.49729c2c.png": "/tgm3-control-panel/static/media/takethatc.49729c2c.png",
     "static/media/takethate.6379f8a9.png": "/tgm3-control-panel/static/media/takethate.6379f8a9.png",
     "static/media/takethatj.834d0fc6.png": "/tgm3-control-panel/static/media/takethatj.834d0fc6.png",
-    "static/media/uwaaaa.7b49bbbc.png": "/tgm3-control-panel/static/media/uwaaaa.7b49bbbc.png"
+    "static/media/uwaaaa.7b49bbbc.png": "/tgm3-control-panel/static/media/uwaaaa.7b49bbbc.png",
+    "static/media/zensoku.9d37db1f.jpg": "/tgm3-control-panel/static/media/zensoku.9d37db1f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7748244c.js",
     "static/js/2.62c5f9e6.chunk.js",
     "static/css/main.8c8fee88.chunk.css",
-    "static/js/main.98d96241.chunk.js"
+    "static/js/main.98f562ea.chunk.js"
   ]
 }
