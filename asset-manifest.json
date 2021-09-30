@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.97da2bcf.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.97da2bcf.chunk.js.map",
+    "main.js": "/tgm3-control-panel/static/js/main.e8d9310a.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.e8d9310a.chunk.js.map",
     "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.aa880d23.js",
     "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.aa880d23.js.map",
     "static/js/2.3a833245.chunk.js": "/tgm3-control-panel/static/js/2.3a833245.chunk.js",
@@ -55,13 +55,13 @@
     "static/media/yareyaredaze.2338640f.jpg": "/tgm3-control-panel/static/media/yareyaredaze.2338640f.jpg",
     "static/media/yesiam.80639fd6.jpg": "/tgm3-control-panel/static/media/yesiam.80639fd6.jpg",
     "static/media/yesyesyes.f987e652.jpg": "/tgm3-control-panel/static/media/yesyesyes.f987e652.jpg",
-    "static/media/zawaruda.4aea6e08.jpg": "/tgm3-control-panel/static/media/zawaruda.4aea6e08.jpg",
+    "static/media/zawarudo.4aea6e08.jpg": "/tgm3-control-panel/static/media/zawarudo.4aea6e08.jpg",
     "static/media/zensoku.9d37db1f.jpg": "/tgm3-control-panel/static/media/zensoku.9d37db1f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa880d23.js",
     "static/js/2.3a833245.chunk.js",
     "static/css/main.8c8fee88.chunk.css",
-    "static/js/main.97da2bcf.chunk.js"
+    "static/js/main.e8d9310a.chunk.js"
   ]
 }
