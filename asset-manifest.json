@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.e8d9310a.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.e8d9310a.chunk.js.map",
+    "main.js": "/tgm3-control-panel/static/js/main.d8685b91.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.d8685b91.chunk.js.map",
     "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.aa880d23.js",
     "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.aa880d23.js.map",
     "static/js/2.3a833245.chunk.js": "/tgm3-control-panel/static/js/2.3a833245.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/App.css": "/tgm3-control-panel/static/media/b1.36add1c0.png",
     "static/media/bakusatsu.eb6fbfe9.png": "/tgm3-control-panel/static/media/bakusatsu.eb6fbfe9.png",
     "static/media/basilisktime.9e338562.png": "/tgm3-control-panel/static/media/basilisktime.9e338562.png",
+    "static/media/bonkhd.c8f9bb91.png": "/tgm3-control-panel/static/media/bonkhd.c8f9bb91.png",
     "static/media/caesar.5ce33117.jpg": "/tgm3-control-panel/static/media/caesar.5ce33117.jpg",
     "static/media/cheer.b281ae96.gif": "/tgm3-control-panel/static/media/cheer.b281ae96.gif",
     "static/media/commercial.4f5f32b4.jpg": "/tgm3-control-panel/static/media/commercial.4f5f32b4.jpg",
@@ -62,6 +63,6 @@
     "static/js/runtime-main.aa880d23.js",
     "static/js/2.3a833245.chunk.js",
     "static/css/main.8c8fee88.chunk.css",
-    "static/js/main.e8d9310a.chunk.js"
+    "static/js/main.d8685b91.chunk.js"
   ]
 }
