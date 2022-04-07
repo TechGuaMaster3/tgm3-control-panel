@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css",
-    "main.js": "/tgm3-control-panel/static/js/main.53266877.chunk.js",
-    "main.js.map": "/tgm3-control-panel/static/js/main.53266877.chunk.js.map",
-    "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.aa880d23.js",
-    "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.aa880d23.js.map",
-    "static/js/2.3a833245.chunk.js": "/tgm3-control-panel/static/js/2.3a833245.chunk.js",
-    "static/js/2.3a833245.chunk.js.map": "/tgm3-control-panel/static/js/2.3a833245.chunk.js.map",
-    "static/js/3.c8aee668.chunk.js": "/tgm3-control-panel/static/js/3.c8aee668.chunk.js",
-    "static/js/3.c8aee668.chunk.js.map": "/tgm3-control-panel/static/js/3.c8aee668.chunk.js.map",
+    "main.css": "/tgm3-control-panel/static/css/main.a12a3ec5.chunk.css",
+    "main.js": "/tgm3-control-panel/static/js/main.705087ba.chunk.js",
+    "main.js.map": "/tgm3-control-panel/static/js/main.705087ba.chunk.js.map",
+    "runtime-main.js": "/tgm3-control-panel/static/js/runtime-main.c23a1a5c.js",
+    "runtime-main.js.map": "/tgm3-control-panel/static/js/runtime-main.c23a1a5c.js.map",
+    "static/js/2.dea62af5.chunk.js": "/tgm3-control-panel/static/js/2.dea62af5.chunk.js",
+    "static/js/2.dea62af5.chunk.js.map": "/tgm3-control-panel/static/js/2.dea62af5.chunk.js.map",
+    "static/js/3.8324bfbe.chunk.js": "/tgm3-control-panel/static/js/3.8324bfbe.chunk.js",
+    "static/js/3.8324bfbe.chunk.js.map": "/tgm3-control-panel/static/js/3.8324bfbe.chunk.js.map",
     "index.html": "/tgm3-control-panel/index.html",
-    "static/css/main.8c8fee88.chunk.css.map": "/tgm3-control-panel/static/css/main.8c8fee88.chunk.css.map",
-    "static/js/2.3a833245.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.3a833245.chunk.js.LICENSE.txt",
+    "static/css/main.a12a3ec5.chunk.css.map": "/tgm3-control-panel/static/css/main.a12a3ec5.chunk.css.map",
+    "static/js/2.dea62af5.chunk.js.LICENSE.txt": "/tgm3-control-panel/static/js/2.dea62af5.chunk.js.LICENSE.txt",
     "static/media/amaizo.b59f56a3.jpg": "/tgm3-control-panel/static/media/amaizo.b59f56a3.jpg",
     "static/media/App.css": "/tgm3-control-panel/static/media/b1.36add1c0.png",
     "static/media/bakusatsu.eb6fbfe9.png": "/tgm3-control-panel/static/media/bakusatsu.eb6fbfe9.png",
@@ -60,9 +60,9 @@
     "static/media/zensoku.9d37db1f.jpg": "/tgm3-control-panel/static/media/zensoku.9d37db1f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa880d23.js",
-    "static/js/2.3a833245.chunk.js",
-    "static/css/main.8c8fee88.chunk.css",
-    "static/js/main.53266877.chunk.js"
+    "static/js/runtime-main.c23a1a5c.js",
+    "static/js/2.dea62af5.chunk.js",
+    "static/css/main.a12a3ec5.chunk.css",
+    "static/js/main.705087ba.chunk.js"
   ]
 }
