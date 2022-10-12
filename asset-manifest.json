@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tgm3-control-panel/static/css/main.74fa692c.css",
-    "main.js": "/tgm3-control-panel/static/js/main.471f3923.js",
+    "main.css": "/tgm3-control-panel/static/css/main.320c0312.css",
+    "main.js": "/tgm3-control-panel/static/js/main.88db6edb.js",
     "static/js/787.ad90ef12.chunk.js": "/tgm3-control-panel/static/js/787.ad90ef12.chunk.js",
     "static/media/donate.gif": "/tgm3-control-panel/static/media/donate.afa002a7d99b1159e9df.gif",
     "static/media/nonononono.png": "/tgm3-control-panel/static/media/nonononono.c638627252fce6c1c77d.png",
@@ -52,12 +52,12 @@
     "static/media/konodioda.jpg": "/tgm3-control-panel/static/media/konodioda.9ed13d763673958397f2.jpg",
     "static/media/b0.png": "/tgm3-control-panel/static/media/b0.a03c04b9442adafed5db.png",
     "index.html": "/tgm3-control-panel/index.html",
-    "main.74fa692c.css.map": "/tgm3-control-panel/static/css/main.74fa692c.css.map",
-    "main.471f3923.js.map": "/tgm3-control-panel/static/js/main.471f3923.js.map",
+    "main.320c0312.css.map": "/tgm3-control-panel/static/css/main.320c0312.css.map",
+    "main.88db6edb.js.map": "/tgm3-control-panel/static/js/main.88db6edb.js.map",
     "787.ad90ef12.chunk.js.map": "/tgm3-control-panel/static/js/787.ad90ef12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74fa692c.css",
-    "static/js/main.471f3923.js"
+    "static/css/main.320c0312.css",
+    "static/js/main.88db6edb.js"
   ]
 }
