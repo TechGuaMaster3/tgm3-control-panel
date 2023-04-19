@@ -31,7 +31,7 @@ export const AlertPanel = (props) => {
   const [source, setSource] = useState(false);
   const [lang, setLang] = useState("ch");
   const [recall, setRecall] = useState(false);
-  const ln = ["ch", "en", "tw", "jp", "fr", "ko"];
+  const ln = ["ncn", "ntw", "cn", "en", "tw", "jp", "fr", "ko"];
   const {client, channel} = props;
   useEffect(() => {
     getSetting();
@@ -177,7 +177,7 @@ export const AlertPanel = (props) => {
       <div style={{padding: "7px 0px"}}>
         <Container style={{margin: "7px auto", padding: "15px"}}>
           <Grid container spacing={2}>
-            <Grid item xs={9}>
+            <Grid item xs={12} md={9}>
               <Grid container spacing={2}>
                 <Grid item xs={12}>
                   <Container className="grid-container">
@@ -411,14 +411,14 @@ export const AlertPanel = (props) => {
                           minRows={7}
                           id="outlined-size-normal"
                           size="small"
-                          style={{width: "85%", margin: "5px 0px"}}
+                          style={{width: "85%", margin: "0px 0px"}}
                           onChange={handleTextChange()}
                         />
                         <div style={{padding: "15px 0px"}}>
                           <Button
                             variant="contained"
                             color="primary"
-                            style={{margin: "0px 10px"}}
+                            style={{margin: "4px 10px"}}
                             onClick={handleRecallClick("!sub")}
                           >
                             Sub Tier1
@@ -426,7 +426,7 @@ export const AlertPanel = (props) => {
                           <Button
                             variant="contained"
                             color="primary"
-                            style={{margin: "0px 10px"}}
+                            style={{margin: "4px 10px"}}
                             onClick={handleRecallClick("!subt3")}
                           >
                             Sub Tier3
@@ -434,7 +434,7 @@ export const AlertPanel = (props) => {
                           <Button
                             variant="contained"
                             color="primary"
-                            style={{margin: "0px 10px"}}
+                            style={{margin: "4px 10px"}}
                             onClick={handleRecallClick("!cheer")}
                           >
                             Cheer
@@ -442,7 +442,7 @@ export const AlertPanel = (props) => {
                           <Button
                             variant="contained"
                             color="primary"
-                            style={{margin: "0px 10px"}}
+                            style={{margin: "4px 10px"}}
                             onClick={handleElevatedClick()}
                           >
                             Elevated
@@ -454,7 +454,7 @@ export const AlertPanel = (props) => {
                 </Grid>
               </Grid>
             </Grid>
-            <Grid item xs={3}>
+            <Grid item xs={12} md={3}>
               <Grid container spacing={2}>
                 <Grid item xs={12}>
                   <Container className="grid-container">
