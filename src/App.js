@@ -10,6 +10,7 @@ import CancelPresentationIcon from "@material-ui/icons/CancelPresentation";
 import LibraryMusicIcon from "@material-ui/icons/LibraryMusic";
 import SettingsIcon from "@material-ui/icons/Settings";
 import FavoriteIcon from "@material-ui/icons/Favorite";
+import SportsMotorsportsIcon from "@material-ui/icons/SportsMotorsports";
 import "./App.css";
 
 const paramsId = new URLSearchParams(window.location.search).get("id");
@@ -72,6 +73,15 @@ const App = () => {
       )}
       {page ? (
         <div>
+          <Tooltip title="BONK" placement="left">
+            <Fab
+              aria-label="alert"
+              style={{position: "fixed", right: "16px", bottom: "176px"}}
+              onClick={handleClick("!sound bonkhd")}
+            >
+              <SportsMotorsportsIcon />
+            </Fab>
+          </Tooltip>
           <Tooltip title="停止當前EC" placement="left">
             <Fab
               aria-label="alert"
@@ -93,6 +103,15 @@ const App = () => {
         </div>
       ) : (
         <div>
+          <Tooltip title="BONK" placement="left">
+            <Fab
+              aria-label="alert"
+              style={{position: "fixed", right: "16px", bottom: "176px"}}
+              onClick={handleClick("!sound bonkhd")}
+            >
+              <SportsMotorsportsIcon />
+            </Fab>
+          </Tooltip>
           <Tooltip title="停止當前音效" placement="left">
             <Fab
               aria-label="alert"
