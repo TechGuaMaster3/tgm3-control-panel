@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tgm3-control-panel/static/css/main.320c0312.css",
-    "main.js": "/tgm3-control-panel/static/js/main.9b0bb23f.js",
+    "main.js": "/tgm3-control-panel/static/js/main.7060f138.js",
     "static/js/787.ad90ef12.chunk.js": "/tgm3-control-panel/static/js/787.ad90ef12.chunk.js",
     "static/media/donate.gif": "/tgm3-control-panel/static/media/donate.afa002a7d99b1159e9df.gif",
     "static/media/nonononono.png": "/tgm3-control-panel/static/media/nonononono.c638627252fce6c1c77d.png",
@@ -23,6 +23,7 @@
     "static/media/ningenoyameruzo.jpg": "/tgm3-control-panel/static/media/ningenoyameruzo.119cc9e478a6fb350d43.jpg",
     "static/media/jikaiyokoku.jpg": "/tgm3-control-panel/static/media/jikaiyokoku.856dc2d1def7d320fc08.jpg",
     "static/media/takethatj.png": "/tgm3-control-panel/static/media/takethatj.834d0fc6398207bfdc11.png",
+    "static/media/98c.png": "/tgm3-control-panel/static/media/98c.00d99267feba296dadcb.png",
     "static/media/roadroller.jpg": "/tgm3-control-panel/static/media/roadroller.cf002b09e4a59e963c9f.jpg",
     "static/media/out.png": "/tgm3-control-panel/static/media/out.8d206fff469af9604395.png",
     "static/media/nanikore.jpg": "/tgm3-control-panel/static/media/nanikore.f9e4f11e94630ac4dfaa.jpg",
@@ -53,11 +54,11 @@
     "static/media/b0.png": "/tgm3-control-panel/static/media/b0.a03c04b9442adafed5db.png",
     "index.html": "/tgm3-control-panel/index.html",
     "main.320c0312.css.map": "/tgm3-control-panel/static/css/main.320c0312.css.map",
-    "main.9b0bb23f.js.map": "/tgm3-control-panel/static/js/main.9b0bb23f.js.map",
+    "main.7060f138.js.map": "/tgm3-control-panel/static/js/main.7060f138.js.map",
     "787.ad90ef12.chunk.js.map": "/tgm3-control-panel/static/js/787.ad90ef12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.320c0312.css",
-    "static/js/main.9b0bb23f.js"
+    "static/js/main.7060f138.js"
   ]
 }
